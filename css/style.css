@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    text-align: center;
+    margin-top: 4rem;
+}
+
+#title {
+    color:hsl(0,0%,59%);
+}
+
+b {
+    font-weight: bolder;
+    color: black;
+}
+.startText {
+    margin-top: 2rem;
+    font-size: 20px;
+}
+
+p {
+    margin-top: 2rem;
+    color:hsl(0,0%,59%);
+}
+
+.input {
+    margin: 3rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+#email {
+    width: 40%;
+    height: 50px;
+    border-radius: 60px;
+    border-style: solid;
+    border-color: hsl(223, 100%, 88%);
+    padding-left: 2rem;
+    outline: none;
+}
+
+button {
+    width: 20%;
+    border-radius: 60px;
+    background-color: hsl(223, 87%, 63%);
+    color: #fff;
+    cursor: pointer;
+    border: none;
+}
+
+.graph{
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+}
+
+.graph img {
+    width: 60%;
+}
+
+.social-media {
+    margin-top: 8rem;
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.social-media img {
+    width: 48px;
+}
+
+span {
+    color:hsl(0,0%,59%);
+}
